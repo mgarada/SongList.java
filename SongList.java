@@ -3,9 +3,6 @@ package cmsc256;
 /*
 File Name: SongList.java
 Programmer Name: Mohammad Garada
-Project #3
-Course Identifier: CMSC 256
-Current Semester: 2nd
 File Description: Searching and sorting data related to bridges.data_src_dependent.Song objects
  */
 
