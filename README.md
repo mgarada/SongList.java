@@ -1,5 +1,5 @@
 # SongList.java
-Song List Project
+Song List 
 Description
 This project implements a linked list data structure to manage a collection of Song objects. The Song class is provided by the Bridges API and contains information about a song such as its title, artist, and album.
 
