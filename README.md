@@ -30,3 +30,5 @@ while (!myList.isAtEnd()) {
 String formattedList = myList.getSongsByArtist("artist1");
 System.out.println(formattedList);
 ```
+# Credits
+This project was created by Mohammad Garada 
