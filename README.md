@@ -6,7 +6,8 @@ The SongList class implements the List interface and provides methods for insert
 
 # Usage
 To use the SongList class, simply create a new instance and call its methods to manipulate the list. Here's an example:
-SongList myList = new SongList();
+
+``SongList myList = new SongList();
 
 // insert a song
 Song song1 = new Song("title1", "artist1", "album1", 1);
@@ -26,4 +27,4 @@ while (!myList.isAtEnd()) {
 
 // get songs by artist
 String formattedList = myList.getSongsByArtist("artist1");
-System.out.println(formattedList);
+System.out.println(formattedList);``
