@@ -32,3 +32,25 @@ System.out.println(formattedList);
 ```
 # Credits
 This project was created by Mohammad Garada 
+
+# Song Comparator 
+# Description
+This is a Java program that implements the Comparator interface to sort a list of Song objects by their titles in ascending order. This program uses the Bridges API to access the Song class.
+
+# Dependencies
+To run this program, you will need the following:
+
+- Java Development Kit (JDK)
+- Bridges API
+
+# Usage
+To use this program, follow these steps:
+
+1. Clone or download the repository to your local machine.
+2. Open the project in your Java IDE.
+3. Run the SongComparatorDemo class to see the program in action.
+4. Optionally, you can modify the SongComparator class to change the sorting criteria.
+
+# Acknowledgements
+This project uses the Bridges API 
+
